@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jonatanlv",
   "description": "Boilerplate project from freeCodeCamp",
-  "keywords": ["tutorial", "freeCodeCamp", "example"],
+  "keywords": ["tutorial", "freecodecamp", "example"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
